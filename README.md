@@ -216,4 +216,4 @@ PeaZip is offered as a full free version with all features and updates included.
 Download PeaZip today and experience a reliable, free tool for all your file compression and expansion needs!
 
 ---
-**Last updated:** 2026-11-04 22:31:43 UTC
+**Last updated:** 2026-11-05 03:21:30 UTC
